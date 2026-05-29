@@ -1,6 +1,0 @@
-{
-  "name": "Saint Ann College - Activity Page",
-  "description": "A live quiz taking application for Saint Ann College with an Admin Control Panel to send questions and monitor real-time scores.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
